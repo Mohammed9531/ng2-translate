@@ -16,7 +16,7 @@
     var packages = {
         'app': {main: 'bootstrap.js', defaultExtension: 'js'},
         'rxjs': {defaultExtension: 'js'},
-        'ng2-translate': {main: 'ng2-translate.js', defaultExtension: 'js'},
+        'ng2-translate': {main: 'bundles/index.js', defaultExtension: 'js'},
     };
 
     var ngPackageNames = [
